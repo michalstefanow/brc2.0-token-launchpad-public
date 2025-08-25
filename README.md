@@ -19,7 +19,11 @@
 
 This is BRC2.0 Token Launchpad - revolutionary platform that combines the security and decentralization of Bitcoin with the programmability of Ethereum smart contracts. Built on the **BRC2.0 Programmable Module**, it enables developers to deploy, manage, and interact with smart contracts directly on Bitcoin through inscriptions.
 
-(This repo is just for anoucement. Main repo is private repo.)
+(This repo is just for anoucement. Contact me if you want main repo)
+
+## 📞 **Support & Contact**
+
+- **📱 Telegram**: [@BRC20Launchpad](https://t.me/mylord1_1)
 
 ### **🎯 Key Features**
 - **🚀 One-Click Token Launch** - Deploy tokens in minutes, not months
@@ -376,9 +380,3 @@ CREATE USER brc20_user WITH PASSWORD 'secure_password';
 -- Grant permissions
 GRANT ALL PRIVILEGES ON DATABASE brc20_index TO brc20_user;
 ```
-
----
-
-## 📞 **Support & Contact**
-
-- **📱 Telegram**: [@BRC20Launchpad](https://t.me/mylord1_1)
