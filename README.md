@@ -23,7 +23,7 @@ This is BRC2.0 Token Launchpad - revolutionary platform that combines the securi
 
 ## 📞 **Support & Contact**
 
-- **📱 Telegram**: [@michalstefanow](https://t.me/mylord1_1)
+- **📱 Telegram**: [@mooneagle1_1](https://t.me/mooneagle1_1)
 
 ### **🎯 Key Features**
 - **🚀 One-Click Token Launch** - Deploy tokens in minutes, not months
